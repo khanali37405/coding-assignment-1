@@ -1,0 +1,40 @@
+h1{
+  font-family: sans-serif;
+}
+#leftbox{
+  background-color: lightgrey;
+ 
+  border: 3px solid black;
+  margin: 2px;
+  width: 400px;
+
+  padding: 15px;
+  float: left;
+  font-family: sans-serif;
+  
+
+}
+
+
+#middlebox{
+  background-color:lightgrey;
+  
+  border: 3px solid black;
+  margin: 2px;
+  width: 400px;
+  padding: 15px;
+  float: left;
+  font-family: sans-serif;
+
+}
+#rightbox{
+  background-color: lightgrey;
+ 
+  font-family: sans-serif;
+  border: 3px solid black;
+  margin: 2px;
+  width: 430px;
+ padding: 15px;
+  float: right;
+
+}
